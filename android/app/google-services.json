@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703335480286",
+    "project_id": "learn-realtime-database-e23ac",
+    "storage_bucket": "learn-realtime-database-e23ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703335480286:android:13adc5ad050dab96a1fb4f",
+        "android_client_info": {
+          "package_name": "com.pdp.g9_realtime_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZEkG6q1RDHEcTlLwcRWwj9gp0eouRoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
